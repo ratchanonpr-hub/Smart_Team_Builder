@@ -1,3 +1,3 @@
 @echo off 
 python cli.py %* 
-python Smart Team Builder.py
+python Smart_Team_Builder.py
